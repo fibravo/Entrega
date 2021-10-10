@@ -15,7 +15,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 
 :root {
     --primercolor: #FFAC52;
-    --segundocolor: #FFD5A8; /* menos luminoso y más saturado que el primero */
+    --segundocolor: #FFAC52; /* menos luminoso y más saturado que el primero */
     --tercercolor: #FFE8CF; /* más luminoso y menos saturado que el primero */
     --colorclaro: rgba(255, 255, 255, 0.9);
     --coloroscuro: rgba(0, 0, 0, 0.9);
@@ -41,7 +41,7 @@ h5,
 h6,
 p.lead {
     /* asignen aquí la tipografía y peso que corresponda para los títulos */
-    font-family: 'Nerko One', cursive;
+    font-family: "Dela Gothic One", cursive;
     font-weight: 400;
 }
 
